@@ -1,0 +1,21 @@
+{
+  "shared_secret": "HMIICq0E+rZGAY+esUGP2rXx7lg=",
+  "identity_secret": "Trvnb5+M24GH4Gfm0tl5XP++WY4=",
+  "device_id": "android:cec566e5-bbdf-c44b-07f0-91582107d977",
+  "revocation_code": "R86503",
+  "account_name": "stresov1ch",
+  "Session": null,
+  "server_time": 1774865112,
+  "steamid": 76561198775887712,
+  "serial_number": "12243386450560585534",
+  "uri": "otpauth://totp/Steam:stresov1ch?secret=DTBAQCVNAT5LMRQBR6PLCQMP3K27D3SY&issuer=Steam",
+  "token_gid": "43a7ef53d8adb26",
+  "secret_1": "Be/xm8lQtYHZo+WD4vAbuLIAzH4=",
+  "Proxy": null,
+  "Group": null,
+  "Password": null,
+  "Credits": {
+    "OriginalAuthor": "Achies",
+    "BestOpenSourceMobileApp": "https://github.com/achiez/NebulaAuth-Steam-Desktop-Authenticator-by-Achies"
+  }
+}
